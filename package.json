@@ -1,0 +1,13 @@
+{
+  "name": "toeic-chat",
+  "version": "1.0.0",
+  "description": "Toeic Chat, The app help you practice Toeic everywhere!",
+  "author": "hunghk",
+  "private": true,
+  "main": "main.js",
+  "dependencies": {
+    "exponent": "^10.0.4",
+    "react": "~15.3.2",
+    "react-native": "github:exponentjs/react-native#sdk-10.1.2"
+  }
+}
